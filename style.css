@@ -1,0 +1,37 @@
+
+.page-style
+{
+    border:2px solid black;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.form-design{
+    padding: 20px;
+    border-right: 2px solid black;
+}
+h1{
+    font-size: 30px;
+    font-weight: 200;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+.input-style{
+    padding: 15px;
+}
+
+.enrolled-student
+{
+    height: 550px;
+    overflow: scroll;
+    
+}
+.data-student{
+    border: 1px solid black;
+    padding: 10px;
+    margin:10px;
+    background-color: rgb(158, 250, 158);
+}
+.basic{
+    margin:10px;
+}
